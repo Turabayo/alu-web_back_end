@@ -1,0 +1,48 @@
+*   [33mad03502[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Merge branch 'master' of https://github.com/Turabayo/alu-web_back_end
+[31m|[m[32m\[m  
+[31m|[m * [33m53dc98f[m[33m ([m[1;31morigin/master[m[33m)[m ES6 data manipulation
+[31m|[m * [33md4de2f1[m ES6_CLASSES
+[31m|[m * [33mec6e8a2[m ES6_PROMISE
+[31m|[m * [33m71467f8[m ES6_basic
+[31m|[m * [33m471ab31[m nosql
+[31m|[m * [33m4d90b72[m mysql advanced
+[31m|[m *   [33me747290[m web backend
+[31m|[m [33m|[m[34m\[m  
+[31m|[m [33m|[m * [33m07d8174[m test client
+[31m|[m [33m|[m * [33mde1e066[m Unittests and integration
+[31m|[m [33m|[m * [33md55529f[m unittets and integration
+[31m|[m [33m|[m * [33m6d2dabc[m unittests and integration
+[31m|[m [33m|[m * [33m0aea421[m users
+[31m|[m [33m|[m *   [33m9977000[m Merge branch 'master' of https://github.com/Turabayo/alu-web-develpment
+[31m|[m [33m|[m [35m|[m[36m\[m  
+[31m|[m [33m|[m [35m|[m * [33m23e21cd[m redis basic
+[31m|[m [33m|[m [35m|[m * [33mbd0455e[m redis basic
+[31m|[m [33m|[m [35m|[m *   [33m923c83e[m `Merge branch 'master' of https://github.com/Turabayo/alu-web_back_end
+[31m|[m [33m|[m [35m|[m [1;31m|[m[1;32m\[m  
+[31m|[m [33m|[m [35m|[m * [1;32m\[m   [33m9dd9bae[m i18n
+[31m|[m [33m|[m [35m|[m [1;33m|[m[1;34m\[m [1;32m\[m  
+[31m|[m [33m|[m [35m|[m [1;33m|[m * [1;32m|[m [33mba27ee7[m Remove .gitignore and add Unittests_and_integration_tests directory
+[31m|[m [33m|[m [35m|[m [1;33m|[m * [1;32m|[m [33mb65546f[m all files
+[31m|[m [33m|[m [35m|[m [1;33m|[m * [1;32m|[m [33m1e4d2f3[m Remove Unittests_and_integration_tests from index and ignore it
+[31m|[m [33m|[m [35m|[m [1;33m|[m * [1;32m|[m [33m0d60ba8[m pagination
+[31m|[m [33m|[m [35m|[m [1;33m|[m * [1;32m|[m [33md06a027[m python async comprehension
+[31m|[m [33m|[m * [1;33m|[m [1;34m|[m [1;32m|[m [33m4333b0c[m update app.py
+[31m|[m [33m|[m [1;32m|[m [1;33m|[m[1;32m_[m[1;34m|[m[1;32m/[m  
+[31m|[m [33m|[m [1;32m|[m[1;32m/[m[1;33m|[m [1;34m|[m   
+[31m|[m [33m|[m * [1;33m|[m [1;34m|[m   [33mf33fbf6[m Resolved merge conflicts
+[31m|[m [33m|[m [1;35m|[m[1;36m\[m [1;33m\[m [1;34m\[m  
+[31m|[m [33m|[m [1;35m|[m * [1;33m|[m [1;34m|[m [33mc4372b1[m testclient
+[31m|[m [33m|[m [1;35m|[m * [1;33m|[m [1;34m|[m [33mf60d619[m Merge branch 'master' of https://github.com/Turabayo/alu-web_back_end
+[31m|[m [33m|[m [1;35m|[m [31m|[m[1;33m\[m[1;33m|[m [1;34m|[m 
+[31m|[m [33m|[m [1;35m|[m [31m|[m * [1;34m|[m [33m19bd193[m unitests
+[31m|[m [33m|[m [1;35m|[m [31m|[m [1;34m|[m[1;34m/[m  
+[31m|[m [33m|[m [1;35m|[m [31m|[m * [33m82e1bc2[m python async function files
+[31m|[m [33m|[m [1;35m|[m [31m|[m * [33m5090b33[m personal data
+[31m|[m [33m|[m [1;35m|[m [31m|[m * [33m49f7173[m personal data
+[31m|[m [33m|[m [1;35m|[m [31m|[m * [33m94a7b56[m python variable annotions
+[31m|[m [33m|[m [1;35m|[m [31m|[m * [33m8312614[m Python Variable annotations
+[31m|[m [33m|[m [1;35m|[m [31m|[m * [33m94e5b43[m pythoon variable annotations
+[31m|[m [33m|[m [1;35m|[m * [33m7235d49[m unittests
+[31m|[m [33m|[m * [33mb07cf24[m user authentication service
+[31m|[m * [33m7e4b9dd[m alu web backend
+* [33mb1d4787[m NODE_JS_basic
